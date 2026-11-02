@@ -1,0 +1,2716 @@
+[CustomCards]
+	[    {
+	        "name": "UW02 Small Creature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUW02 Small Creature.png"
+	        }
+	    },
+	    {
+	        "name": "UW03 Small Creature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUW03 Small Creature.png"
+	        }
+	    },
+	    {
+	        "name": "UW04 Small Creature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUW04 Small Creature.png"
+	        }
+	    },
+	    {
+	        "name": "UW08 Medium Creature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUW08 Medium Creature.png"
+	        }
+	    },
+	    {
+	        "name": "UW13 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUW13 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UU01 Small Creature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUU01 Small Creature.png"
+	        }
+	    },
+	    {
+	        "name": "UU03 Small Creature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUU03 Small Creature.png"
+	        }
+	    },
+	    {
+	        "name": "UU05 Medium Creature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUU05 Medium Creature.png"
+	        }
+	    },
+	    {
+	        "name": "UU06 MediumWall Creature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUU06 MediumWall Creature.png"
+	        }
+	    },
+	    {
+	        "name": "UU07 Large Creature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUU07 Large Creature.png"
+	        }
+	    },
+	    {
+	        "name": "UU08 Large Creature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUU08 Large Creature.png"
+	        }
+	    },
+	    {
+	        "name": "UU11 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUU11 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UU12 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUU12 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UU14 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUU14 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UU16 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUU16 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UU17 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUU17 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UB12 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUB12 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UB13 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUB13 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UB14 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUB14 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UB16 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUB16 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UB17 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUB17 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UR02 Small Creature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUR02 Small Creature.png"
+	        }
+	    },
+	    {
+	        "name": "UR04 Small Creature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUR04 Small Creature.png"
+	        }
+	    },
+	    {
+	        "name": "UR06 Medium Creature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUR06 Medium Creature.png"
+	        }
+	    },
+	    {
+	        "name": "UR13 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUR13 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UR14 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUR14 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UG10 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUG10 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UG11 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUG11 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UG13 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUG13 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UG14 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUG14 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UG16 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUG16 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UG17 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUG17 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UM02 Small Creature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUM02 Small Creature.png"
+	        }
+	    },
+	    {
+	        "name": "UM10 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUM10 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UA01 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUA01 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UA02 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUA02 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UA03 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUA03 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UL01 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUL01 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UX01 Noncreature",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUX01 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "RW01 Small Creature",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRW01 Small Creature.png"
+	        }
+	    },
+	    {
+	        "name": "RW07 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRW07 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "RU05 Large Creature",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRU05 Large Creature.png"
+	        }
+	    },
+	    {
+	        "name": "RU07 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRU07 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "RB05 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRB05 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "RB06 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRB06 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "RR01 Small Creature",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRR01 Small Creature.png"
+	        }
+	    },
+	    {
+	        "name": "RU09 Small Creature",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRU09 Small Creature.png"
+	        }
+	    },
+	    {
+	        "name": "RW09 Medium Creature",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRW09 Medium Creature.png"
+	        }
+	    },
+	    {
+	        "name": "RA01 Medium Creature",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRA01 Medium Creature.png"
+	        }
+	    },
+	    {
+	        "name": "RB09 Medium Creature",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRB09 Medium Creature.png"
+	        }
+	    },
+	    {
+	        "name": "RA02 Medium Creature",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRA02 Medium Creature.png"
+	        }
+	    },
+	    {
+	        "name": "RA03 Large Creature",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRA03 Large Creature.png"
+	        }
+	    },
+	    {
+	        "name": "RL02 Noncreature",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRL02 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "MM08 Small Creature",
+	        "rarity": "mythic",
+	        "mana_cost": "{R}{W}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMM08 Small Creature.png"
+	        }
+	    },
+	    {
+	        "name": "MU01 Small Creature",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMU01 Small Creature.png"
+	        }
+	    },
+	    {
+	        "name": "MU02 Noncreature",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{U}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMU02 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "MB01 Large Creature",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMB01 Large Creature.png"
+	        }
+	    },
+	    {
+	        "name": "MB02 Noncreature",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{B}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMB02 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "MR01 Noncreature",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{R}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMR01 Noncreature.png"
+	        }
+	    },
+	    {
+	        "name": "UM01 Taylor, Undercover Undersider",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Legendary Creature — Parahuman Hero Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUM01 Taylor, Undercover Undersider.png"
+	        }
+	    },
+	    {
+	        "name": "RM03 Skitter, Brockton Bay Warlord",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{B}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRM03 Skitter, Brockton Bay Warlord.png"
+	        }
+	    },
+	    {
+	        "name": "CW01 Bullied Child",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCW01 Bullied Child.png"
+	        }
+	    },
+	    {
+	        "name": "RW04 Weaver, Reformed Villain",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Legendary Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRW04 Weaver, Reformed Villain.png"
+	        }
+	    },
+	    {
+	        "name": "MM01 Khepri",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}{W}{U}{B}",
+	        "type": "Legendary Creature — Parahuman Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMM01 Khepri.png"
+	        }
+	    },
+	    {
+	        "name": "RG02 Labyrinth",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRG02 Labyrinth.png"
+	        }
+	    },
+	    {
+	        "name": "RM02 Hero, Fondly Remembered",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{R}",
+	        "type": "Legendary Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRM02 Hero, Fondly Remembered.png"
+	        }
+	    },
+	    {
+	        "name": "CG13 Rachel's Pack",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCG13 Rachel's Pack.png"
+	        }
+	    },
+	    {
+	        "name": "CZ08 Hero's Daughter",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G/W}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCZ08 Hero's Daughter.png"
+	        }
+	    },
+	    {
+	        "name": "UZ01 Cluster Member",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G/W}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUZ01 Cluster Member.png"
+	        }
+	    },
+	    {
+	        "name": "UM03 Vista",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{W}",
+	        "type": "Legendary Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUM03 Vista.png"
+	        }
+	    },
+	    {
+	        "name": "MM11 Contessa",
+	        "rarity": "mythic",
+	        "mana_cost": "{7}{U}{B}",
+	        "type": "Legendary Creature — Parahuman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMM11 Contessa.png"
+	        }
+	    },
+	    {
+	        "name": "MA01 The Warrior Entity",
+	        "rarity": "mythic",
+	        "mana_cost": "{9}",
+	        "type": "Legendary Planeswalker — Zion ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMA01 The Warrior Entity.png"
+	        }
+	    },
+	    {
+	        "name": "RW03 Chief Director Costa-Brown",
+	        "mana_cost": "{2}{W}",
+	        "type": "Legendary Creature — Parahuman Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRW03 Chief Director Costa-Brown.png"
+	        },
+	        "printed names": {
+	            "en": "RW03 Chief Director Costa-Brown"
+	        },
+	        "back": {
+	            "name": "Alexandria",
+	            "printed_names": {
+	                "en": "Alexandria"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesAlexandria.png"
+	            },
+	            "type": "Legendary Creature — Parahuman Hero "
+	        }
+	    },
+	    {
+	        "name": "CU13 Bureaucratic Inconveniences",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCU13 Bureaucratic Inconveniences.png"
+	        }
+	    },
+	    {
+	        "name": "RL01 The Garden of Flesh",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRL01 The Garden of Flesh.png"
+	        }
+	    },
+	    {
+	        "name": "UR15 Thinker Headache",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUR15 Thinker Headache.png"
+	        }
+	    },
+	    {
+	        "name": "CU04 Prison Break",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCU04 Prison Break.png"
+	        }
+	    },
+	    {
+	        "name": "UM07 Shifting Perspective",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUM07 Shifting Perspective.png"
+	        }
+	    },
+	    {
+	        "name": "CZ10 Uncovering Conspiracies",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U/R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCZ10 Uncovering Conspiracies.png"
+	        }
+	    },
+	    {
+	        "name": "CU07 Parahuman Inpatient",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Parahuman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCU07 Parahuman Inpatient.png"
+	        }
+	    },
+	    {
+	        "name": "UM04 Cell Block Leader",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}{R}",
+	        "type": "Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUM04 Cell Block Leader.png"
+	        }
+	    },
+	    {
+	        "name": "CZ05 Slaughterhouse Applicant",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B/R}",
+	        "type": "Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCZ05 Slaughterhouse Applicant.png"
+	        }
+	    },
+	    {
+	        "name": "UB02 Someone You Couldn't Save",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUB02 Someone You Couldn't Save.png"
+	        }
+	    },
+	    {
+	        "name": "CU01 Wizard of the Adepts",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCU01 Wizard of the Adepts.png"
+	        }
+	    },
+	    {
+	        "name": "CR08 Endbringer Defense Force",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Creature — Parahuman Hero Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCR08 Endbringer Defense Force.png"
+	        }
+	    },
+	    {
+	        "name": "CG08 Literally Gigantic Racist",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCG08 Literally Gigantic Racist.png"
+	        }
+	    },
+	    {
+	        "name": "CB08 Slaughterhouse Clones",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCB08 Slaughterhouse Clones.png"
+	        }
+	    },
+	    {
+	        "name": "CU08 Azazel",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Artifact Creature — Robot Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCU08 Azazel.png"
+	        }
+	    },
+	    {
+	        "name": "CW12 Locker Incident",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCW12 Locker Incident.png"
+	        }
+	    },
+	    {
+	        "name": "MW01 Phir Se",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{W}{W}{W}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMW01 Phir Se.png"
+	        }
+	    },
+	    {
+	        "name": "MG01 Echidna",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}{G}{G}{G}",
+	        "type": "Legendary Creature — Parahuman Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMG01 Echidna.png"
+	        }
+	    },
+	    {
+	        "name": "MM02 The Cycle",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{B}{G}{U}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMM02 The Cycle.png"
+	        }
+	    },
+	    {
+	        "name": "MM03 Slaughterhouse 9000",
+	        "rarity": "mythic",
+	        "mana_cost": "{6}{U}{B}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMM03 Slaughterhouse 9000.png"
+	        }
+	    },
+	    {
+	        "name": "MM04 Panacea, Humble Healer",
+	        "mana_cost": "{W}{B}{G}",
+	        "type": "Legendary Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMM04 Panacea, Humble Healer.png"
+	        },
+	        "printed names": {
+	            "en": "MM04 Panacea, Humble Healer"
+	        },
+	        "back": {
+	            "name": "Panacea Unleashed",
+	            "printed_names": {
+	                "en": "Panacea Unleashed"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesPanacea Unleashed.png"
+	            },
+	            "type": "Legendary Creature — Parahuman Villain "
+	        }
+	    },
+	    {
+	        "name": "MM05 Doormaker",
+	        "rarity": "mythic",
+	        "mana_cost": "{G}{W}{U}",
+	        "type": "Legendary Creature — Parahuman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMM05 Doormaker.png"
+	        }
+	    },
+	    {
+	        "name": "MM07 One of the Blasphemies",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{G}{U}{R}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMM07 One of the Blasphemies.png"
+	        }
+	    },
+	    {
+	        "name": "UM05 Entity's Scrutiny",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUM05 Entity's Scrutiny.png"
+	        }
+	    },
+	    {
+	        "name": "UM06 Blood Absorption",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUM06 Blood Absorption.png"
+	        }
+	    },
+	    {
+	        "name": "RM07 Regent",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{R}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRM07 Regent.png"
+	        }
+	    },
+	    {
+	        "name": "RM01 The Yangban",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{W}",
+	        "type": "Legendary Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRM01 The Yangban.png"
+	        }
+	    },
+	    {
+	        "name": "RR05 Bakuda",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRR05 Bakuda.png"
+	        }
+	    },
+	    {
+	        "name": "UG05 Dauntless",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Legendary Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUG05 Dauntless.png"
+	        }
+	    },
+	    {
+	        "name": "UR07 Saint",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Legendary Creature — Human Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUR07 Saint.png"
+	        }
+	    },
+	    {
+	        "name": "CL01 Crater Lake",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCL01 Crater Lake.png"
+	        }
+	    },
+	    {
+	        "name": "CL05 Boat Graveyard",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCL05 Boat Graveyard.png"
+	        }
+	    },
+	    {
+	        "name": "CL04 Protectorate HQ",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCL04 Protectorate HQ.png"
+	        }
+	    },
+	    {
+	        "name": "CL10 The Boardwalk",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCL10 The Boardwalk.png"
+	        }
+	    },
+	    {
+	        "name": "CL02 The Scar",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCL02 The Scar.png"
+	        }
+	    },
+	    {
+	        "name": "CL06 Arcadia High",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCL06 Arcadia High.png"
+	        }
+	    },
+	    {
+	        "name": "CL09 Winslow High",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCL09 Winslow High.png"
+	        }
+	    },
+	    {
+	        "name": "CL07 Fugly Bob's",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCL07 Fugly Bob's.png"
+	        }
+	    },
+	    {
+	        "name": "CL08 Endbringer Memorial",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCL08 Endbringer Memorial.png"
+	        }
+	    },
+	    {
+	        "name": "CL03 Undersiders Hideout",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCL03 Undersiders Hideout.png"
+	        }
+	    },
+	    {
+	        "name": "CL11 The Brockton Bay Portal",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCL11 The Brockton Bay Portal.png"
+	        }
+	    },
+	    {
+	        "name": "RR06 Unwritten Rules",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRR06 Unwritten Rules.png"
+	        }
+	    },
+	    {
+	        "name": "RR07 Bombing Spree",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRR07 Bombing Spree.png"
+	        }
+	    },
+	    {
+	        "name": "UZ08 Earth Aleph, Earth Bet",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G/U}{G/U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUZ08 Earth Aleph, Earth Bet.png"
+	        }
+	    },
+	    {
+	        "name": "UU10 Power Nullification",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUU10 Power Nullification.png"
+	        }
+	    },
+	    {
+	        "name": "UG12 Reshape Flesh",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUG12 Reshape Flesh.png"
+	        }
+	    },
+	    {
+	        "name": "CB13 Shoot the Baby",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCB13 Shoot the Baby.png"
+	        }
+	    },
+	    {
+	        "name": "RG01 Butcher",
+	        "rarity": "rare",
+	        "mana_cost": "{G}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRG01 Butcher.png"
+	        }
+	    },
+	    {
+	        "name": "CG01 Yangban Recruit",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Parahuman Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCG01 Yangban Recruit.png"
+	        }
+	    },
+	    {
+	        "name": "CG03 Cauldron Customer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCG03 Cauldron Customer.png"
+	        }
+	    },
+	    {
+	        "name": "RU06 Quiet Speculation",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRU06 Quiet Speculation.png"
+	        }
+	    },
+	    {
+	        "name": "UB10 Mourning the Departed",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Enchantment — Trauma ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUB10 Mourning the Departed.png"
+	        }
+	    },
+	    {
+	        "name": "MM12 Eidolon",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{U}{B}{R}{G}",
+	        "type": "Legendary Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMM12 Eidolon.png"
+	        }
+	    },
+	    {
+	        "name": "CB07 Servants of the Faerie Queen",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Parahuman Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCB07 Servants of the Faerie Queen.png"
+	        }
+	    },
+	    {
+	        "name": "UW09 Glory Girl",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Legendary Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUW09 Glory Girl.png"
+	        }
+	    },
+	    {
+	        "name": "UW07 Golem",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Legendary Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUW07 Golem.png"
+	        }
+	    },
+	    {
+	        "name": "UZ09 Sent to the Birdcage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W/B}{W/B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUZ09 Sent to the Birdcage.png"
+	        }
+	    },
+	    {
+	        "name": "CX01 Blaster 2",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCX01 Blaster 2.png"
+	        }
+	    },
+	    {
+	        "name": "CX02 Tinker 4",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCX02 Tinker 4.png"
+	        }
+	    },
+	    {
+	        "name": "CX03 Brute 6",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCX03 Brute 6.png"
+	        }
+	    },
+	    {
+	        "name": "RG04 Crawler",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{G}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRG04 Crawler.png"
+	        }
+	    },
+	    {
+	        "name": "RG05 Nilbog",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRG05 Nilbog.png"
+	        }
+	    },
+	    {
+	        "name": "UG06 Lab Rat",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUG06 Lab Rat.png"
+	        }
+	    },
+	    {
+	        "name": "RB07 Crash Out",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRB07 Crash Out.png"
+	        }
+	    },
+	    {
+	        "name": "UZ10 It Gets Worse",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U/B}{U/B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUZ10 It Gets Worse.png"
+	        }
+	    },
+	    {
+	        "name": "CB11 Refuse to Die",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCB11 Refuse to Die.png"
+	        }
+	    },
+	    {
+	        "name": "RB02 Emma Barnes, Vicious Bully",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Legendary Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRB02 Emma Barnes, Vicious Bully.png"
+	        }
+	    },
+	    {
+	        "name": "RB01 Bonesaw",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{B}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRB01 Bonesaw.png"
+	        }
+	    },
+	    {
+	        "name": "RR04 Shatterbird",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRR04 Shatterbird.png"
+	        }
+	    },
+	    {
+	        "name": "CU03 Birdmaster",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCU03 Birdmaster.png"
+	        }
+	    },
+	    {
+	        "name": "RU04 Accord",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRU04 Accord.png"
+	        }
+	    },
+	    {
+	        "name": "RB03 Glaistig Uaine",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRB03 Glaistig Uaine.png"
+	        }
+	    },
+	    {
+	        "name": "UU02 Dinah Alcott",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Legendary Creature — Parahuman Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUU02 Dinah Alcott.png"
+	        }
+	    },
+	    {
+	        "name": "RG06 The Siberian",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Legendary Creature — Avatar Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRG06 The Siberian.png"
+	        }
+	    },
+	    {
+	        "name": "RR03 Cherish",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRR03 Cherish.png"
+	        }
+	    },
+	    {
+	        "name": "RB04 Jack Slash",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRB04 Jack Slash.png"
+	        }
+	    },
+	    {
+	        "name": "UW06 Clockblocker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Legendary Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUW06 Clockblocker.png"
+	        }
+	    },
+	    {
+	        "name": "RW02 Doctor Mother",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Legendary Creature — Human Doctor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRW02 Doctor Mother.png"
+	        }
+	    },
+	    {
+	        "name": "RG03 Rachel / Bitch",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{G}{G}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRG03 Rachel / Bitch.png"
+	        }
+	    },
+	    {
+	        "name": "RW06 Grue",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRW06 Grue.png"
+	        }
+	    },
+	    {
+	        "name": "UW11 Ascalon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUW11 Ascalon.png"
+	        }
+	    },
+	    {
+	        "name": "UG09 Second Trigger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUG09 Second Trigger.png"
+	        }
+	    },
+	    {
+	        "name": "RM06 The Number Man",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Legendary Creature — Parahuman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRM06 The Number Man.png"
+	        }
+	    },
+	    {
+	        "name": "RR02 Imp",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRR02 Imp.png"
+	        }
+	    },
+	    {
+	        "name": "UB11 Swarm Attack",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUB11 Swarm Attack.png"
+	        }
+	    },
+	    {
+	        "name": "CZ04 Biotinker's Masterwork",
+	        "rarity": "common",
+	        "mana_cost": "{X}{G/U}{G/U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCZ04 Biotinker's Masterwork.png"
+	        }
+	    },
+	    {
+	        "name": "CG12 Dimensional Portal",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCG12 Dimensional Portal.png"
+	        }
+	    },
+	    {
+	        "name": "CU12 Traumatic Flashback",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCU12 Traumatic Flashback.png"
+	        }
+	    },
+	    {
+	        "name": "RM05 Blasto",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{U}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRM05 Blasto.png"
+	        }
+	    },
+	    {
+	        "name": "RU02 Parian",
+	        "rarity": "rare",
+	        "mana_cost": "{U}",
+	        "type": "Legendary Creature — Parahuman Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRU02 Parian.png"
+	        }
+	    },
+	    {
+	        "name": "CU02 One of the Taught",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCU02 One of the Taught.png"
+	        }
+	    },
+	    {
+	        "name": "CW13 Copacetic Circumstances",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCW13 Copacetic Circumstances.png"
+	        }
+	    },
+	    {
+	        "name": "CW10 Heroic Willpower",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCW10 Heroic Willpower.png"
+	        }
+	    },
+	    {
+	        "name": "CA01 Dragondrone",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Drone ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCA01 Dragondrone.png"
+	        }
+	    },
+	    {
+	        "name": "CA02 Cauldron Vial",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCA02 Cauldron Vial.png"
+	        }
+	    },
+	    {
+	        "name": "UR11 Costume Swap",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUR11 Costume Swap.png"
+	        }
+	    },
+	    {
+	        "name": "UZ05 Nazi Monster",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R/G}{R/G}",
+	        "type": "Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUZ05 Nazi Monster.png"
+	        }
+	    },
+	    {
+	        "name": "CR06 Member of the Teeth",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCR06 Member of the Teeth.png"
+	        }
+	    },
+	    {
+	        "name": "UZ07 Villain for Hire",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B/R}{B/R}",
+	        "type": "Creature — Parahuman Mercenary Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUZ07 Villain for Hire.png"
+	        }
+	    },
+	    {
+	        "name": "RW05 Stronger Together",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRW05 Stronger Together.png"
+	        }
+	    },
+	    {
+	        "name": "CZ01 Do The Wrong Thing...",
+	        "rarity": "common",
+	        "mana_cost": "{W/B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCZ01 Do The Wrong Thing....png"
+	        }
+	    },
+	    {
+	        "name": "CU10 Horrific Imprisonment",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment — Aura Trauma ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCU10 Horrific Imprisonment.png"
+	        }
+	    },
+	    {
+	        "name": "CW11 Containment Foam",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCW11 Containment Foam.png"
+	        }
+	    },
+	    {
+	        "name": "UU09 Problems Elsewhere",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUU09 Problems Elsewhere.png"
+	        }
+	    },
+	    {
+	        "name": "RM08 Scion's Rampage",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRM08 Scion's Rampage.png"
+	        }
+	    },
+	    {
+	        "name": "BL05 Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesBL05 Forest.png"
+	        }
+	    },
+	    {
+	        "name": "BL02 Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesBL02 Island.png"
+	        }
+	    },
+	    {
+	        "name": "BL04 Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesBL04 Mountain.png"
+	        }
+	    },
+	    {
+	        "name": "BL01 Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesBL01 Plains.png"
+	        }
+	    },
+	    {
+	        "name": "BL03 Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesBL03 Swamp.png"
+	        }
+	    },
+	    {
+	        "name": "CU05 Toybox Tinker",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Parahuman Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCU05 Toybox Tinker.png"
+	        }
+	    },
+	    {
+	        "name": "CG10 Natural Entropy",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCG10 Natural Entropy.png"
+	        }
+	    },
+	    {
+	        "name": "UR09 Thanda Vigilante",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Parahuman Hero Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUR09 Thanda Vigilante.png"
+	        }
+	    },
+	    {
+	        "name": "CR12 Conflict Drive",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCR12 Conflict Drive.png"
+	        }
+	    },
+	    {
+	        "name": "CR02 Self-Proclaimed Hero",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Parahuman Hero Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCR02 Self-Proclaimed Hero.png"
+	        }
+	    },
+	    {
+	        "name": "UR03 Prism",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Legendary Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUR03 Prism.png"
+	        }
+	    },
+	    {
+	        "name": "UR05 Protectorate Reinforcements",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUR05 Protectorate Reinforcements.png"
+	        }
+	    },
+	    {
+	        "name": "CW03 Chicago Ward",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCW03 Chicago Ward.png"
+	        }
+	    },
+	    {
+	        "name": "CZ03 School Bully",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U/B}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCZ03 School Bully.png"
+	        }
+	    },
+	    {
+	        "name": "CR03 Merchants Dealer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Minion Merchant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCR03 Merchants Dealer.png"
+	        }
+	    },
+	    {
+	        "name": "UR12 Trigger Visions",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUR12 Trigger Visions.png"
+	        }
+	    },
+	    {
+	        "name": "MM06 End of All Possible Worlds",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{B}{R}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMM06 End of All Possible Worlds.png"
+	        }
+	    },
+	    {
+	        "name": "UM08 Shadow Stalker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{G}",
+	        "type": "Legendary Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUM08 Shadow Stalker.png"
+	        }
+	    },
+	    {
+	        "name": "CU11 Crushing Futility",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCU11 Crushing Futility.png"
+	        }
+	    },
+	    {
+	        "name": "CR09 Fight Crime",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCR09 Fight Crime.png"
+	        }
+	    },
+	    {
+	        "name": "CG09 Alternate Form",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCG09 Alternate Form.png"
+	        }
+	    },
+	    {
+	        "name": "CR13 Flame Breath",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCR13 Flame Breath.png"
+	        }
+	    },
+	    {
+	        "name": "CU09 Superhuman Skill",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCU09 Superhuman Skill.png"
+	        }
+	    },
+	    {
+	        "name": "CB10 Fear Inducement",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCB10 Fear Inducement.png"
+	        }
+	    },
+	    {
+	        "name": "CW08 Alexandria Package",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCW08 Alexandria Package.png"
+	        }
+	    },
+	    {
+	        "name": "UW05 Insect Control",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUW05 Insect Control.png"
+	        }
+	    },
+	    {
+	        "name": "RW08 Scapegoat",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRW08 Scapegoat.png"
+	        }
+	    },
+	    {
+	        "name": "UU15 A Body of Steel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUU15 A Body of Steel.png"
+	        }
+	    },
+	    {
+	        "name": "UB15 Brain Drain",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUB15 Brain Drain.png"
+	        }
+	    },
+	    {
+	        "name": "RB08 Dampening Aura",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRB08 Dampening Aura.png"
+	        }
+	    },
+	    {
+	        "name": "UR16 Inhuman Speed",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUR16 Inhuman Speed.png"
+	        }
+	    },
+	    {
+	        "name": "RR08 Self-Duplication",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRR08 Self-Duplication.png"
+	        }
+	    },
+	    {
+	        "name": "UG15 Sting",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUG15 Sting.png"
+	        }
+	    },
+	    {
+	        "name": "RG08 Galvanization",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRG08 Galvanization.png"
+	        }
+	    },
+	    {
+	        "name": "RU08 Gravity Control",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment — Aura Power ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRU08 Gravity Control.png"
+	        }
+	    },
+	    {
+	        "name": "RG09 You Needed Worthy Opponents",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRG09 You Needed Worthy Opponents.png"
+	        }
+	    },
+	    {
+	        "name": "CZ09 Student of the Harmonious",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R/W}",
+	        "type": "Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCZ09 Student of the Harmonious.png"
+	        }
+	    },
+	    {
+	        "name": "CZ07 Dragon's Tooth",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W/U}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCZ07 Dragon's Tooth.png"
+	        }
+	    },
+	    {
+	        "name": "UW10 Protectorate Team",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUW10 Protectorate Team.png"
+	        }
+	    },
+	    {
+	        "name": "UW14 Triumvirate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUW14 Triumvirate.png"
+	        }
+	    },
+	    {
+	        "name": "UR17 The Gang's All Here",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUR17 The Gang's All Here.png"
+	        }
+	    },
+	    {
+	        "name": "UB09 Villainous Team",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{B}",
+	        "type": "Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUB09 Villainous Team.png"
+	        }
+	    },
+	    {
+	        "name": "MM10 Dragon, Heroic AI",
+	        "mana_cost": "{U}{R}{W}",
+	        "type": "Legendary Kindred Artifact — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMM10 Dragon, Heroic AI.png"
+	        },
+	        "printed names": {
+	            "en": "MM10 Dragon, Heroic AI"
+	        },
+	        "back": {
+	            "name": "Dragon Manifest",
+	            "printed_names": {
+	                "en": "Dragon Manifest"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesDragon Manifest.png"
+	            },
+	            "type": "Legendary Artifact Creature — Parahuman Hero "
+	        }
+	    },
+	    {
+	        "name": "RU03 Armsmaster, Efficiency Tinker",
+	        "mana_cost": "{2}{U}",
+	        "type": "Legendary Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRU03 Armsmaster, Efficiency Tinker.png"
+	        },
+	        "printed names": {
+	            "en": "RU03 Armsmaster, Efficiency Tinker"
+	        },
+	        "back": {
+	            "name": "Defiant, Hero Rebuilt",
+	            "printed_names": {
+	                "en": "Defiant, Hero Rebuilt"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesDefiant, Hero Rebuilt.png"
+	            },
+	            "type": "Legendary Artifact Creature — Parahuman Hero "
+	        }
+	    },
+	    {
+	        "name": "RM04 Legend",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{R}{W}",
+	        "type": "Legendary Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRM04 Legend.png"
+	        }
+	    },
+	    {
+	        "name": "RM10 Coil",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRM10 Coil.png"
+	        }
+	    },
+	    {
+	        "name": "RU01 String Theory",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRU01 String Theory.png"
+	        }
+	    },
+	    {
+	        "name": "UG04 Night Hag Clone",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUG04 Night Hag Clone.png"
+	        }
+	    },
+	    {
+	        "name": "UG03 The Newly Homeless",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUG03 The Newly Homeless.png"
+	        }
+	    },
+	    {
+	        "name": "UU13 Shattered Worldview",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUU13 Shattered Worldview.png"
+	        }
+	    },
+	    {
+	        "name": "UW15 Stolen Mechsuit",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUW15 Stolen Mechsuit.png"
+	        }
+	    },
+	    {
+	        "name": "MM09 The Entities Arrive",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{R}{G}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesMM09 The Entities Arrive.png"
+	        }
+	    },
+	    {
+	        "name": "UG02 Bunker Boy",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUG02 Bunker Boy.png"
+	        }
+	    },
+	    {
+	        "name": "UG07 Hellhound's Hound",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Dog ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUG07 Hellhound's Hound.png"
+	        }
+	    },
+	    {
+	        "name": "UR01 Burnscar Clone",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUR01 Burnscar Clone.png"
+	        }
+	    },
+	    {
+	        "name": "RG07 After the End",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRG07 After the End.png"
+	        }
+	    },
+	    {
+	        "name": "UG08 Amalgamate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Parahuman Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUG08 Amalgamate.png"
+	        }
+	    },
+	    {
+	        "name": "UM09 Foam Sprayer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{U}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUM09 Foam Sprayer.png"
+	        }
+	    },
+	    {
+	        "name": "UW01 Giant Riding Beetle",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Mutant Insect ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUW01 Giant Riding Beetle.png"
+	        }
+	    },
+	    {
+	        "name": "UZ04 Refugee Crisis",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B/G}",
+	        "type": "Enchantment — Trauma ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUZ04 Refugee Crisis.png"
+	        }
+	    },
+	    {
+	        "name": "UR08 Wards Team",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUR08 Wards Team.png"
+	        }
+	    },
+	    {
+	        "name": "UW16 Emergency Medicine",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUW16 Emergency Medicine.png"
+	        }
+	    },
+	    {
+	        "name": "UB08 Martyr of Gold Morning",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{B}",
+	        "type": "Creature — Parahuman Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUB08 Martyr of Gold Morning.png"
+	        }
+	    },
+	    {
+	        "name": "UU04 Stressed Student",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUU04 Stressed Student.png"
+	        }
+	    },
+	    {
+	        "name": "UB03 Psychosoma Monster",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUB03 Psychosoma Monster.png"
+	        }
+	    },
+	    {
+	        "name": "RR09 Fight Alone",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRR09 Fight Alone.png"
+	        }
+	    },
+	    {
+	        "name": "UR10 Sundancer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUR10 Sundancer.png"
+	        }
+	    },
+	    {
+	        "name": "UW12 Hold At Gunpoint",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUW12 Hold At Gunpoint.png"
+	        }
+	    },
+	    {
+	        "name": "UZ06 Pendragon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W/U}{W/U}",
+	        "type": "Artifact — Vehicle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUZ06 Pendragon.png"
+	        }
+	    },
+	    {
+	        "name": "UW17 Tuned Defenses",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUW17 Tuned Defenses.png"
+	        }
+	    },
+	    {
+	        "name": "UB04 Doomed Agents",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUB04 Doomed Agents.png"
+	        }
+	    },
+	    {
+	        "name": "CB01 Breed Larva",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Insect Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCB01 Breed Larva.png"
+	        }
+	    },
+	    {
+	        "name": "CB02 Administrative Minion",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Minion ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCB02 Administrative Minion.png"
+	        }
+	    },
+	    {
+	        "name": "CB12 Brutal Interrogation",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCB12 Brutal Interrogation.png"
+	        }
+	    },
+	    {
+	        "name": "UB01 Heartbroken",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUB01 Heartbroken.png"
+	        }
+	    },
+	    {
+	        "name": "UB07 Miserable Nobody",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUB07 Miserable Nobody.png"
+	        }
+	    },
+	    {
+	        "name": "UB05 Cauldron Inmate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Parahuman Mutant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUB05 Cauldron Inmate.png"
+	        }
+	    },
+	    {
+	        "name": "UB06 Red Hand",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUB06 Red Hand.png"
+	        }
+	    },
+	    {
+	        "name": "CR10 United We Stand",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCR10 United We Stand.png"
+	        }
+	    },
+	    {
+	        "name": "CW05 PRT Director",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCW05 PRT Director.png"
+	        }
+	    },
+	    {
+	        "name": "CU06 Coil's Private Army",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Human Mercenary ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCU06 Coil's Private Army.png"
+	        }
+	    },
+	    {
+	        "name": "CB03 Violent Minion",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Minion ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCB03 Violent Minion.png"
+	        }
+	    },
+	    {
+	        "name": "CB04 Small-Town Menace",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCB04 Small-Town Menace.png"
+	        }
+	    },
+	    {
+	        "name": "CB05 Desperate Citizens",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCB05 Desperate Citizens.png"
+	        }
+	    },
+	    {
+	        "name": "CB06 Neo-Nazi Supervillain",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCB06 Neo-Nazi Supervillain.png"
+	        }
+	    },
+	    {
+	        "name": "CB09 Mentally Broken",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Enchantment — Aura Trauma ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCB09 Mentally Broken.png"
+	        }
+	    },
+	    {
+	        "name": "CR01 ABB Ganger",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Minion ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCR01 ABB Ganger.png"
+	        }
+	    },
+	    {
+	        "name": "CR04 Villainfluencers",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCR04 Villainfluencers.png"
+	        }
+	    },
+	    {
+	        "name": "CR05 Sponsored Hero",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCR05 Sponsored Hero.png"
+	        }
+	    },
+	    {
+	        "name": "CR07 Legacy Cape",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCR07 Legacy Cape.png"
+	        }
+	    },
+	    {
+	        "name": "CR11 Dynakinesis",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCR11 Dynakinesis.png"
+	        }
+	    },
+	    {
+	        "name": "UG01 Amnesiac Case 53",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Parahuman Mutant  ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUG01 Amnesiac Case 53.png"
+	        }
+	    },
+	    {
+	        "name": "UZ02 Violent Cleverness",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R/W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUZ02 Violent Cleverness.png"
+	        }
+	    },
+	    {
+	        "name": "UZ03 Made it Worse",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U/R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesUZ03 Made it Worse.png"
+	        }
+	    },
+	    {
+	        "name": "CG04 Brown Recluse Spider",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Spider ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCG04 Brown Recluse Spider.png"
+	        }
+	    },
+	    {
+	        "name": "CG02 Irregular",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Parahuman Mutant Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCG02 Irregular.png"
+	        }
+	    },
+	    {
+	        "name": "CG11 Life-Changing Violence",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCG11 Life-Changing Violence.png"
+	        }
+	    },
+	    {
+	        "name": "CZ06 Meh, I Can Take Her",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R/G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCZ06 Meh, I Can Take Her.png"
+	        }
+	    },
+	    {
+	        "name": "CG05 Servant of Nilbog",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Goblin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCG05 Servant of Nilbog.png"
+	        }
+	    },
+	    {
+	        "name": "CG07 Survivors of Gold Morning",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Human Survivor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCG07 Survivors of Gold Morning.png"
+	        }
+	    },
+	    {
+	        "name": "CG06 Scurry",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Parahuman Mutant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCG06 Scurry.png"
+	        }
+	    },
+	    {
+	        "name": "CZ02 Bohu Clones",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B/G}{B/G}",
+	        "type": "Creature — Bringer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCZ02 Bohu Clones.png"
+	        }
+	    },
+	    {
+	        "name": "CW06 New Wave Hero",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCW06 New Wave Hero.png"
+	        }
+	    },
+	    {
+	        "name": "CW09 PRT Strike Force",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCW09 PRT Strike Force.png"
+	        }
+	    },
+	    {
+	        "name": "CW04 Skitter's Swarm",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCW04 Skitter's Swarm.png"
+	        }
+	    },
+	    {
+	        "name": "CW02 PRT Officer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCW02 PRT Officer.png"
+	        }
+	    },
+	    {
+	        "name": "CW07 Member of Haven",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Parahuman Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesCW07 Member of Haven.png"
+	        }
+	    },
+	    {
+	        "name": "RM09 Lung",
+	        "rarity": "rare",
+	        "mana_cost": "{R}{G}",
+	        "type": "Legendary Creature — Parahuman Villain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/Worm/main/WRMv1C-filesRM09 Lung.png"
+	        }
+	    }
+	]
+	[CommonSlot(13)]
+		50 CW01 Bullied Child
+		50 CG13 Rachel's Pack
+		50 CZ08 Hero's Daughter
+		50 CU13 Bureaucratic Inconveniences
+		50 CU04 Prison Break
+		50 CZ10 Uncovering Conspiracies
+		50 CU07 Parahuman Inpatient
+		50 CZ05 Slaughterhouse Applicant
+		50 CU01 Wizard of the Adepts
+		50 CR08 Endbringer Defense Force
+		50 CG08 Literally Gigantic Racist
+		50 CB08 Slaughterhouse Clones
+		50 CU08 Azazel
+		50 CW12 Locker Incident
+		50 CL01 Crater Lake
+		50 CL05 Boat Graveyard
+		50 CL04 Protectorate HQ
+		50 CL10 The Boardwalk
+		50 CL02 The Scar
+		50 CL06 Arcadia High
+		50 CL09 Winslow High
+		50 CL07 Fugly Bob's
+		50 CL08 Endbringer Memorial
+		50 CL03 Undersiders Hideout
+		50 CL11 The Brockton Bay Portal
+		50 CB13 Shoot the Baby
+		50 CG01 Yangban Recruit
+		50 CG03 Cauldron Customer
+		50 CB07 Servants of the Faerie Queen
+		50 CX01 Blaster 2
+		50 CX02 Tinker 4
+		50 CX03 Brute 6
+		50 CB11 Refuse to Die
+		50 CU03 Birdmaster
+		50 CZ04 Biotinker's Masterwork
+		50 CG12 Dimensional Portal
+		50 CU12 Traumatic Flashback
+		50 CU02 One of the Taught
+		50 CW13 Copacetic Circumstances
+		50 CW10 Heroic Willpower
+		50 CA01 Dragondrone
+		50 CA02 Cauldron Vial
+		50 CR06 Member of the Teeth
+		50 CZ01 Do The Wrong Thing...
+		50 CU10 Horrific Imprisonment
+		50 CW11 Containment Foam
+		50 CU05 Toybox Tinker
+		50 CG10 Natural Entropy
+		50 CR12 Conflict Drive
+		50 CR02 Self-Proclaimed Hero
+		50 CW03 Chicago Ward
+		50 CZ03 School Bully
+		50 CR03 Merchants Dealer
+		50 CU11 Crushing Futility
+		50 CR09 Fight Crime
+		50 CG09 Alternate Form
+		50 CR13 Flame Breath
+		50 CU09 Superhuman Skill
+		50 CB10 Fear Inducement
+		50 CW08 Alexandria Package
+		50 CZ09 Student of the Harmonious
+		50 CZ07 Dragon's Tooth
+		50 CB01 Breed Larva
+		50 CB02 Administrative Minion
+		50 CB12 Brutal Interrogation
+		50 CR10 United We Stand
+		50 CW05 PRT Director
+		50 CU06 Coil's Private Army
+		50 CB03 Violent Minion
+		50 CB04 Small-Town Menace
+		50 CB05 Desperate Citizens
+		50 CB06 Neo-Nazi Supervillain
+		50 CB09 Mentally Broken
+		50 CR01 ABB Ganger
+		50 CR04 Villainfluencers
+		50 CR05 Sponsored Hero
+		50 CR07 Legacy Cape
+		50 CR11 Dynakinesis
+		50 CG04 Brown Recluse Spider
+		50 CG02 Irregular
+		50 CG11 Life-Changing Violence
+		50 CZ06 Meh, I Can Take Her
+		50 CG05 Servant of Nilbog
+		50 CG07 Survivors of Gold Morning
+		50 CG06 Scurry
+		50 CZ02 Bohu Clones
+		50 CW06 New Wave Hero
+		50 CW09 PRT Strike Force
+		50 CW04 Skitter's Swarm
+		50 CW02 PRT Officer
+		50 CW07 Member of Haven

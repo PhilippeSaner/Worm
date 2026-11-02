@@ -1,0 +1,1382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name></name>
+      <longname></longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>CW01 Bullied Child</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Bullied Child enters, it has a trigger event. (You may cast a Power on it from outside the game.)</text>
+    </card>
+    <card>
+      <name>CG13 Rachel&apos;s Pack</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Escalate {2} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Create a 2/2 green Wolf creature token.
+• Create two 1/1 green Dog creature tokens.</text>
+    </card>
+    <card>
+      <name>CZ08 Hero&apos;s Daughter</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2G/W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on your turn, if Hero’s Daughter isn’t enchanted, it has a trigger event. (You may cast a Power on it from outside the game.)</text>
+    </card>
+    <card>
+      <name>CU13 Bureaucratic Inconveniences</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each differently named token you control.
+Tap up to two target creatures. Put a stun counter on each.</text>
+    </card>
+    <card>
+      <name>CU04 Prison Break</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 3/2 red and black Parahuman Villain creature token.
+Flashback 4U (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>CZ10 Uncovering Conspiracies</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2U/R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card. Discard a card. Draw a card.
+Flashback 4U/R (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>CU07 Parahuman Inpatient</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Parahuman </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If there are more cards in your graveyard than in your library, this creature gets +4/+3 and has flying.</text>
+    </card>
+    <card>
+      <name>CZ05 Slaughterhouse Applicant</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1B/R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Parahuman Villain </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another Villain card is put into your graveyard from anywhere, put a +1/+1 counter on this creature.</text>
+    </card>
+    <card>
+      <name>CU01 Wizard of the Adepts</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Parahuman Villain </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you control an artifact or an enchantment, Wizard of the Adepts gets +1/+1 and has flying.</text>
+    </card>
+    <card>
+      <name>CR08 Endbringer Defense Force</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Parahuman Hero Villain </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>CG08 Literally Gigantic Racist</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Parahuman Villain </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>CB08 Slaughterhouse Clones</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Parahuman Villain </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>CU08 Azazel</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Robot Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>CW12 Locker Incident</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature you control. At the beginning of combat on your next turn, return it to the battlefield under its owner’s control and it has a trigger event. (You may cast a Power on it from outside the game.)</text>
+    </card>
+    <card>
+      <name>CL01 Crater Lake</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Crater Lake enters tapped.
+{T}: Add {U} or {R}.
+Sacrifice Crater Lake: Surveil 2.</text>
+    </card>
+    <card>
+      <name>CL05 Boat Graveyard</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Boat Graveyard enters tapped.
+{T}: Add {U} or {B}.
+Sacrifice Boat Graveyard: Surveil 2.</text>
+    </card>
+    <card>
+      <name>CL04 Protectorate HQ</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Protectorate HQ enters tapped.
+{T}: Add {W} or {R}.
+Sacrifice Protectorate HQ: Surveil 2.</text>
+    </card>
+    <card>
+      <name>CL10 The Boardwalk</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>The Boardwalk enters tapped.
+{T}: Add {W} or {U}.
+Sacrifice The Boardwalk: Surveil 2.</text>
+    </card>
+    <card>
+      <name>CL02 The Scar</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>The Scar enters tapped.
+{T}: Add {B} or {R}.
+Sacrifice The Scar: Surveil 2.</text>
+    </card>
+    <card>
+      <name>CL06 Arcadia High</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Arcadia High enters tapped.
+{T}: Add {W} or {G}.
+Sacrifice Arcadia High: Surveil 2.</text>
+    </card>
+    <card>
+      <name>CL09 Winslow High</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Winslow High enters tapped.
+{T}: Add {R} or {G}.
+Sacrifice Winslow High: Surveil 2.</text>
+    </card>
+    <card>
+      <name>CL07 Fugly Bob&apos;s</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Fugly Bob’s enters tapped.
+{T}: Add {U} or {G}.
+Sacrifice Fugly Bob’s: Surveil 2.</text>
+    </card>
+    <card>
+      <name>CL08 Endbringer Memorial</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Endbringer Memorial enters tapped.
+{T}: Add {W} or {B}.
+Sacrifice Endbringer Memorial: Surveil 2.</text>
+    </card>
+    <card>
+      <name>CL03 Undersiders Hideout</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Undersiders Hideout enters tapped.
+{T}: Add {B} or {G}.
+Sacrifice Undersiders Hideout: Surveil 2.</text>
+    </card>
+    <card>
+      <name>CL11 The Brockton Bay Portal</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Sacrifice The Brockton Bay Portal: Create a tapped land token with the basic land type of your choice.</text>
+    </card>
+    <card>
+      <name>CB13 Shoot the Baby</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature.
+Create a Trauma token. (It’s a black enchantment with “At the beginning of your upkeep, mill a card.”)</text>
+    </card>
+    <card>
+      <name>CG01 Yangban Recruit</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Parahuman Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Enchanted creatures you control get +1/+1 and have ward {1}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+    </card>
+    <card>
+      <name>CG03 Cauldron Customer</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Cauldron Customer enters, create a Treasure token.
+{1}, {T}: Cauldron Customer has a trigger event. Activate only as a sorcery and only if Cauldron Customer isn’t enchanted. (You may cast a Power on it from outside the game.)</text>
+    </card>
+    <card>
+      <name>CB07 Servants of the Faerie Queen</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Parahuman Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Servants of the Faerie Queen gets +2/+2 for every seven cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>CX01 Blaster 2</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura Power </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+0 and has reach.</text>
+    </card>
+    <card>
+      <name>CX02 Tinker 4</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura Power </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Whenever enchanted creature attacks, its controller creates a 1/1 colorless Robot creature token that’s tapped and attacking.</text>
+    </card>
+    <card>
+      <name>CX03 Brute 6</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura Power </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +3/+3.</text>
+    </card>
+    <card>
+      <name>CB11 Refuse to Die</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Escalate {2} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Until end of turn, target creature gains “When this creature dies, return it to the battlefield tapped under its owner’s control.”
+• Return target creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>CU03 Birdmaster</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Parahuman Villain </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Birdmaster enters, create a 1/1 blue Bird creature token with flying. If you control three or more differently named tokens, create a 2/2 blue Bird creature token with flying instead.</text>
+    </card>
+    <card>
+      <name>CZ04 Biotinker&apos;s Masterwork</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>XG/UG/U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each differently named token you control.
+Create an X/X green Mutant Beast creature token.</text>
+    </card>
+    <card>
+      <name>CG12 Dimensional Portal</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Sacrifice a land. Create two colorless land tokens named Everywhere that are every basic land type.</text>
+    </card>
+    <card>
+      <name>CU12 Traumatic Flashback</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card.
+Create a Trauma token. (It’s a black enchantment with “At the beginning of your upkeep, mill a card.”)
+Flashback 3U (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>CU02 One of the Taught</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast an instant or sorcery spell, One of the Taught gets +1/+1 until end of turn. If you cast that spell from your graveyard, put a +1/+1 counter on this creature instead.</text>
+    </card>
+    <card>
+      <name>CW13 Copacetic Circumstances</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Copacetic Circumstances enters or leaves the battlefield, you gain 2 life and draw a card.</text>
+    </card>
+    <card>
+      <name>CW10 Heroic Willpower</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may cast this spell without paying its mana cost if it targets a Hero.
+Target creature gets +1/+1 and gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>CA01 Dragondrone</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Drone </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>CA02 Cauldron Vial</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Cauldron Vial enters, draw a card.
+{1}, {T}, Sacrifice Cauldron Vial: Target non-enchanted creature you control has a trigger event. Activate only as a sorcery. (You may cast a Power on it from outside the game.)</text>
+    </card>
+    <card>
+      <name>CR06 Member of the Teeth</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Parahuman Villain </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>All Out — At the beginning of combat on your turn, you may have each creature attack this combat if able. If you do, this creature gains double strike until end of turn.</text>
+    </card>
+    <card>
+      <name>CZ01 Do The Wrong Thing</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>W/B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As as an additional cost to cast this spell, sacrifice a permanent.
+Destroy target creature.</text>
+    </card>
+    <card>
+      <name>CU10 Horrific Imprisonment</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura Trauma </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets -5/-0 and loses all abilities.
+At the beginning of your upkeep, mill a card.</text>
+    </card>
+    <card>
+      <name>CW11 Containment Foam</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+When Containment Foam enters, remove enchanted creature from combat.
+Enchanted creature can’t attack or block.</text>
+    </card>
+    <card>
+      <name>BL05 Forest</name>
+      <set rarity=""></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>BL02 Island</name>
+      <set rarity=""></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>BL04 Mountain</name>
+      <set rarity=""></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>BL01 Plains</name>
+      <set rarity=""></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>BL03 Swamp</name>
+      <set rarity=""></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>CU05 Toybox Tinker</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Parahuman Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an artifact or enchantment you control enters, put a +1/+1 counter on Toybox Tinker.</text>
+    </card>
+    <card>
+      <name>CG10 Natural Entropy</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Escalate {3} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Exile target player’s graveyard.</text>
+    </card>
+    <card>
+      <name>CR12 Conflict Drive</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap target creature and gain control of it until end of turn. It gains haste until end of turn.
+Flashback 5R (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>CR02 Self-Proclaimed Hero</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Parahuman Hero Villain </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another Hero or Villain card is put into your graveyard from anywhere, target Hero or Villain you control gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>CW03 Chicago Ward</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Parahuman Hero </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Chicago Ward gets +2/+2 as long as it was the target of a spell or ability you control this turn.</text>
+    </card>
+    <card>
+      <name>CZ03 School Bully</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1U/B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When School Bully enters, create a Trauma token. (It’s a black enchantment with “At the beginning of your upkeep, mill a card.”)</text>
+    </card>
+    <card>
+      <name>CR03 Merchants Dealer</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Minion Merchant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, you may discard a card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>CU11 Crushing Futility</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell.
+Create a Trauma token. (It’s a black enchantment with “At the beginning of your upkeep, mill a card.”)</text>
+    </card>
+    <card>
+      <name>CR09 Fight Crime</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control fights target creature you don’t. If the creature you control is a Hero, it deals damage equal to its power to the creature you don’t instead.</text>
+    </card>
+    <card>
+      <name>CG09 Alternate Form</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura Power </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature has “2G: Until end of turn, this creature becomes a Beast with base power and toughness 6/6 and gains trample.”</text>
+    </card>
+    <card>
+      <name>CR13 Flame Breath</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura Power </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature has “{1}: This creature gets +1/+0 until end of turn.”</text>
+    </card>
+    <card>
+      <name>CU09 Superhuman Skill</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura Power </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature has prowess and vigilance.</text>
+    </card>
+    <card>
+      <name>CB10 Fear Inducement</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura Power </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature has menace and ward — Discard a card.</text>
+    </card>
+    <card>
+      <name>CW08 Alexandria Package</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura Power </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +2/+2 and has flying.</text>
+    </card>
+    <card>
+      <name>CZ09 Student of the Harmonious</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2R/W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Parahuman Hero </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Student of the Harmonious has double strike as long as it became the target of a spell or ability you control this turn.</text>
+    </card>
+    <card>
+      <name>CZ07 Dragon&apos;s Tooth</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1W/U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an artifact or enchantment you control enters, Dragon’s Tooth gets +1/+1 and gains vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>CB01 Breed Larva</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Insect Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice Breed Larva and another nonland permanent: Create a 4/3 black Insect Horror creature token named Breed Imago. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>CB02 Administrative Minion</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Minion </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Administrative Minion enters, mill four cards. You may put a Villain card from among the milled cards into your hand.</text>
+    </card>
+    <card>
+      <name>CB12 Brutal Interrogation</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent discards two cards. If fewer than two cards were discarded this way, you draw cards, lose life, and create Trauma tokens equal to the difference. (They’re black enchantments with “At the beginning of your upkeep, mill a card.”)</text>
+    </card>
+    <card>
+      <name>CR10 United We Stand</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each Hero it targets.
+Up to two target creatures get +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>CW05 PRT Director</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice a nonland permanent: Creatures you control get +1/+1 until end of turn. Activate only once each turn.</text>
+    </card>
+    <card>
+      <name>CU06 Coil&apos;s Private Army</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach, prowess, prowess, vigilance</text>
+    </card>
+    <card>
+      <name>CB03 Violent Minion</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Minion </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Violent Minion dies, draw a card.</text>
+    </card>
+    <card>
+      <name>CB04 Small-Town Menace</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Parahuman Villain </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Discard a Villain card: Small-Town Menace gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>CB05 Desperate Citizens</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as there’s a land card in your graveyard, Desperate Citizens gets +1/+1 and has lifelink.</text>
+    </card>
+    <card>
+      <name>CB06 Neo-Nazi Supervillain</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Parahuman Villain </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Neo-Nazi Supervillain enters, you may sacrifice a permanent. If you do, draw a card and each player loses 1 life.</text>
+    </card>
+    <card>
+      <name>CB09 Mentally Broken</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura Trauma </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, mill a card.
+Enchanted creature gets -X/-X, where X is the number of land cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>CR01 ABB Ganger</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Minion </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>All Out — At the beginning of combat on your turn, you may have each creature attack this combat if able. If you do, ABB Ganger gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>CR04 Villainfluencers</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Parahuman Villain </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When you cast this spell, you may discard a Villain card. If you do, copy this spell.</text>
+    </card>
+    <card>
+      <name>CR05 Sponsored Hero</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Parahuman Hero </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+All Out — At the beginning of combat on your turn, you may have each creature attack this combat if able. If you do, create a Treasure token.</text>
+    </card>
+    <card>
+      <name>CR07 Legacy Cape</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Parahuman Hero </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Legacy Cape enters, add five mana in any combination of colors. Spend this mana only to cast spells from your graveyard.</text>
+    </card>
+    <card>
+      <name>CR11 Dynakinesis</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Dynakinesis deals 2 damage to any target.
+Flashback 4R (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>CG04 Brown Recluse Spider</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Spider </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+All Out — At the beginning of combat on your turn, you may have each creature attack this combat if able. If you do, Brown Recluse Spider gains deathtouch and vigilance until your next turn.</text>
+    </card>
+    <card>
+      <name>CG02 Irregular</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Parahuman Mutant Hero </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>All Out — At the beginning of combat on your turn, you may have each creature attack this combat if able. If you do, Irregular gains hexproof and indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>CG11 Life-Changing Violence</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control fights target creature. Then if the creature you control is on the battlefield, it has a trigger event. (You may cast a Power on it from outside the game.)</text>
+    </card>
+    <card>
+      <name>CZ06 Meh, I Can Take Her</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2R/G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +3/+3 until end of turn.
+All Out — You may have each creature attack this turn if able. If you do, each creature blocks this turn if able.</text>
+    </card>
+    <card>
+      <name>CG05 Servant of Nilbog</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Goblin </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>4G: Create a tapped token that’s a copy of Servant of Nilbog. Activate this ability only if you control three or more differently named tokens.</text>
+    </card>
+    <card>
+      <name>CG07 Survivors of Gold Morning</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Survivor </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Survivors of Gold Morning enters, choose one —
+• Return target land card from your graveyard to the battlefield.
+• You gain 1 life for each land card in your graveyard.</text>
+    </card>
+    <card>
+      <name>CG06 Scurry</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Parahuman Mutant </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>All Out — At the beginning of combat on your turn, you may have each creature attack this combat if able. If you do, create a 1/1 black Rat creature token.</text>
+    </card>
+    <card>
+      <name>CZ02 Bohu Clones</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1B/GB/G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bringer </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bohu Clones gets +1/+1 for each land card in your graveyard.</text>
+    </card>
+    <card>
+      <name>CW06 New Wave Hero</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Parahuman Hero </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When New Wave Hero enters, target Hero gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>CW09 PRT Strike Force</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach, vigilance
+Whenever PRT Strike Force attacks, tap target creature an opponent controls.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>CW04 Skitter&apos;s Swarm</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+When Skitter’s Swarm dies, create two 1/1 green Insect creature tokens with flying.</text>
+    </card>
+    <card>
+      <name>CW02 PRT Officer</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast an artifact or enchantment spell, tap up to one target creature.</text>
+    </card>
+    <card>
+      <name>CW07 Member of Haven</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Parahuman Hero </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Member of Haven enters, return target artifact or enchantment card from your graveyard to your hand.</text>
+    </card>
